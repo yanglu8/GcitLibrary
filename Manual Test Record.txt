@@ -1,0 +1,22 @@
+Manual Test Record
+
+Librarian:
+Update the details of the Library
+Add copies of Book to the Branch
+delete author/add author/ update author
+delete book/add book/ update book
+Add/Update/Delete Library Branches
+Add/Update/Delete Borrowers
+
+(
+
+Add/Update Publishers/Delete Publishers
+
+5) Over-ride Due Date for a Book Loan
+)
+
+
+
+Borrower:
+check in a book
+return book
